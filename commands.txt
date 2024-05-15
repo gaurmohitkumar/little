@@ -1,0 +1,5 @@
+git status
+1. git add file name 
+1a git add . -> to add all the file with 1 command
+2. git commit -m "massage" 
+3. git push origin main
